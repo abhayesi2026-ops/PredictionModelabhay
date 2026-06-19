@@ -404,23 +404,6 @@ Execute all notebook cells from top to bottom.
 
 ---
 
-## Future Improvements
-
-* Hyperparameter tuning
-* Additional feature engineering
-* Compare multiple regression algorithms
-* Deploy model using Flask or FastAPI
-* Build a web application for real-time prediction
-
----
-
-## Author
-
-**Abhay**
-
-Diploma Computer Engineering Student
-
-Machine Learning & AI Enthusiast
 
 # Wine Quality Prediction Using Machine Learning
 
@@ -745,23 +728,6 @@ wine-quality-prediction/
 
 ---
 
-## Future Improvements
-
-* Perform feature scaling
-* Apply hyperparameter tuning
-* Compare multiple machine learning models
-* Add confusion matrix visualization
-* Deploy model as a web application
-
----
-
-## Author
-
-**Abhay**
-
-Diploma Computer Engineering Student
-
-Machine Learning & AI Enthusiast
 
 # Heart Disease Prediction Using Machine Learning
 
@@ -1070,17 +1036,6 @@ heart-disease-prediction/
 └── requirements.txt
 ```
 
----
-
-## Future Improvements
-
-* Perform feature scaling
-* Hyperparameter tuning
-* Compare multiple machine learning algorithms
-* Add Confusion Matrix visualization
-* Add Classification Report
-* Deploy model using Flask or FastAPI
-* Build a Heart Disease Prediction Web Application
 
 ---
 
